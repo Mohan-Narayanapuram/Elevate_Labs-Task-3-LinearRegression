@@ -26,14 +26,13 @@ To implement and understand Simple Linear Regression using the Housing dataset, 
 6. Visualized the regression line over actual data
 
 ## Model Output
-- MAE: *your_value*
-- MSE: *your_value*
-- R² Score: *your_value*
+- MAE: 1474748.1337969352
+- MSE: 3675286604768.185
+- R² Score: 0.27287851871974644
 
 ## Key Takeaways
 - The model successfully predicts housing price based on area
 - Positive linear relationship between area and price
 - Linear regression is interpretable and fast for numeric prediction problems
 
-## Status
 > **Task 3 successfully completed and submitted as part of the Elevate Labs AI/ML Internship.**
