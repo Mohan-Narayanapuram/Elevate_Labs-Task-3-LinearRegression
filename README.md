@@ -34,5 +34,7 @@ To implement and understand Simple Linear Regression using the Housing dataset, 
 - The model successfully predicts housing price based on area
 - Positive linear relationship between area and price
 - Linear regression is interpretable and fast for numeric prediction problems
+  
+---
 
 > **Task 3 successfully completed and submitted as part of the Elevate Labs AI/ML Internship.**
